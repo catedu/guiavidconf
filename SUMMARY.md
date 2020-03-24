@@ -1,18 +1,15 @@
 # Summary
 
-* Introducción
-* Equipo necesario 
-* Comparativa de posibilidades
-* Orientaciones didácticas
-    * Un video interesante
+* [Introducción](README.md)
+* [Equipo necesario ](equipo-necesario.md)
+* [Comparativa de posibilidades](comparativa-de-posibilidades.md)
+* [Orientaciones didácticas](orientaciones-didacticas.md)
+  * [Un video interesante](orientaciones-didacticas/un-video-interesante.md)
+  * Una experiencia con Google Meet
 * Aplicaciones
-    * Youtube
-    * Jitsi
-    * Zoom
-    * Hangouts/Google Meet
-    * Teams
-    
-
-
-
+  * Youtube
+  * Jitsi
+  * Zoom
+  * Hangouts/Google Meet
+  * Teams
 
