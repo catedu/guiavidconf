@@ -1,5 +1,38 @@
+#Avanzado, tener una webcam con tu móvil: DROIDCAM
+
+Si tu PC no tiene webcam, una posibilidad es utilizar tu móvil como webcam:
 
 ![](/assets/2020-03-25 13_31_28.jpg)
 
 https://www.rawpixel.com/
+
+Para ello necesitas:
+
+1. Un móvil con la [APP DroidCam](https://play.google.com/store/apps/developer?id=Dev47Apps)
+2. El ordenador con el programa cliente que te lo descargas aquí: https://www.dev47apps.com/
+3. El ordenador y el móvil conectado a la misma red.
+
+>**danger**
+>El punto tercero significa que no podemos tener el móvil conectado a la red móvil 3G/4G .. y el ordenador conectado a internet del modem de tu casa (igual da que sea por wifi que por cable, mejor siempre el cable) sino que el móvil tiene **que estar conectado a la wifi de tu casa**
+
+##Vamos para allá....
+
+a. Ejecutamos la app del móvil que te has descargado en el punto 1
+
+![](/assets/2020-03-25 13_46_36.jpg)
+
+Nos saldrá algo así:
+
+![](/assets/2020-03-25 13_48_02.jpg)
+
+b. Ejecutamos el programa cliente que te has descargado en el punto 2
+
+![](/assets/2020-03-25 13_46_56.jpg)
+
+Ponemos en este programa LOS MISMOS PARÁMETROS QUE NOS ESTÁN SALIENDO POR EL MÓVIL:
+
+![](/assets/2020-03-25 14_00_25.jpg)
+
+Ya tienes una webcam instalada en tu PC
+
 
