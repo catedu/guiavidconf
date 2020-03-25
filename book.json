@@ -1,0 +1,43 @@
+{
+  "plugins": [
+    "youtube",
+    "accordion",
+    "image-captions",
+    "styled-blockquotes",
+    "localized-footer",
+    "edit-link",
+    "githubcontributors",
+    "ga"
+  ],
+  "language": "es",
+  "variables": {
+    "title": "Guía básica para el Profesorado durante COVID-19",
+    "author": "Varios autores",
+    "collaborators": [
+      {
+        "name": "_________",
+        "edited": "_____________"
+      }
+    ]
+  },
+  "pluginsConfig": {
+    "image-captions": {
+      "caption": "Imagen - _CAPTION_"
+    },
+    "localized-footer": {
+      "hline": true,
+      "filename": "./FOOTER.md"
+    },
+    "edit-link": {
+      "base": "https://github.com/catedu/guia_basica/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "guia_basica"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
+    }
+  }
+}
