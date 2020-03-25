@@ -1,0 +1,59 @@
+#Equipo necesario
+##Ordenador
+Para las videoconferencias no hace falta un equipo muy sofisticado,es más importante que funcione correctamente estos** tres elementos**:
+* webcam
+* audio (micro y altavoces)
+* conexión
+Por lo tanto, no es necesario que sea nuestro ordenador fijo, pensemos que hay equipos que ya tienen incorporado estos elementos: el móvil, un portátil, la tableta…
+
+![](/assets/2020-03-25 13_03_57.jpg)
+
+https://www.rawpixel.com/
+
+###Quiero hacer clases por videoconferencia
+
+En este caso necesitamos compartir **nuestra pantalla** con nuestros alumnos, mientras hablamos.
+Nuestro consejo es utilizar el **portátil-ordenador fijo** pues es fácil compartir la pantalla con https://jitsi.org/ e ir pasando las diapositivas, documento o página web por el cual estamos basándonos nuestra explicación mientras por el audio.
+
+![](/assets/2020-03-25 13_04_50.jpg)
+
+Photo by [rupixen.com](https://unsplash.com/@rupixen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash
+
+###Quiero hacer una videoconferencia con mis alumnos
+En este caso no necesitas compartir tu pantalla, tu explicación, sino comentar hablar, entonces nuestro consejo es utilizar el móvil: 
+utilizar **el móvil** como elemento de videoconferencia 
+el **ordenador** como elemento de trabajo
+
+![](/assets/2020-03-25 13_06_02.jpg)
+
+Fuente https://www.youtube.com/watch?v=ifJZiIsJHw8
+
+##Audio
+Utiliza auriculares, y si tienen micro incorporado mejor !!, evitas molestos pitidos y mejoras el audio, importante para todos los miembros de la videoconferencia
+
+![](/assets/2020-03-25 13_06_52.jpg)
+
+https://www.rawpixel.com/
+
+##Conexión
+Evita que haya muchas paredes entre tu equipo y tu punto  Wifi.
+Tú como docente modera la reunión, y especialmente en reuniones de +20 que todas las cámaras estén desactivadas menos el que habla.
+
+##Cámara
+
+En este vídeo tienes unas recomendaciones, que te las resumimos aquí
+Emitir sólo tu voz (excepto inicio y final)
+1. Ponte el móvil en un trípode (casero si no tienes, mira el vídeo) y utiliza el ordenador como trabajo
+2. Iluminación: Nuestro consejo es: de lado, iluminación natural (con cortina si hace sol) o de noche lámpara con visillo pero también poner la general para evitar sombras.
+3. Fondo sin distracciones
+
+{%youtube%}https://www.youtube.com/watch?v=ifJZiIsJHw8{%endyoutube%}
+
+
+
+
+
+
+
+
+
