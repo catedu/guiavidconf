@@ -35,4 +35,14 @@ Ponemos en este programa LOS MISMOS PARÁMETROS QUE NOS ESTÁN SALIENDO POR EL M
 
 Ya tienes una webcam instalada en tu PC
 
+#¿Para qué me puede servir esto?
+
+Tienes un botón que salta una ventana con lo que captura
+
+![](/assets/2020-03-25 14_20_31.jpg)
+
+Si queremos por videoconferencia mostrar un contenido (presentación o página web..) y a la vez tu imagen, simplemente abrimos la presentación, arrastramos la ventana anterior y compartimos la pantalla: Estamos dando una **clase magistral** :
+
+![](/assets/2020-03-25 14_23_59.jpg)
+
 
