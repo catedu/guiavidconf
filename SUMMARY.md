@@ -6,13 +6,12 @@
   * [Avanzado OBS](equipo-necesario/avanzado-obs.md)
 * [Comparativa de posibilidades](comparativa-de-posibilidades.md)
 * [Orientaciones didácticas](orientaciones-didacticas.md)
-  * [Un video interesante](orientaciones-didacticas/un-video-interesante.md)
   * Una experiencia con Google Meet
-* Aplicaciones
-  * Youtube
-  * Jitsi
+* [Aplicaciones](aplicaciones.md)
+  * [Youtube](aplicaciones/youtube.md)
+  * [Jitsi](aplicaciones/jitsi.md)
   * Zoom
-  * Hangouts/Google Meet
-  * Teams
+  * [Hangouts Meet \(Google\) ](aplicaciones/hangoutsgoogle-meet.md)
+  * [Teams](aplicaciones/teams.md)
 * [Créditos](creditos.md)
 
