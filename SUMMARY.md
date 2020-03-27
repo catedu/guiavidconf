@@ -5,6 +5,8 @@
   * [Avanzado: DroidCam](equipo-necesario/avanzado-droidcam.md)
   * [Avanzado OBS](equipo-necesario/avanzado-obs.md)
 * [Eligiendo entre las múltiples opciones](orientaciones-didacticas.md)
+  * [Preguntas antes de elegir](orientaciones-didacticas/preguntas-antes-de-elegir.md)
+  * [Una breve comparativa de algunas de las aplicaciones de videoconferencia](orientaciones-didacticas/una-breve-comparativa-de-algunas-de-las-aplicaciones-de-videoconferencia.md)
   * Una experiencia con Google Meet
 * [Aplicaciones](aplicaciones.md)
   * [Jitsi](aplicaciones/jitsi.md)
