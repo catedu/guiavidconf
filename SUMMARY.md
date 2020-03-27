@@ -7,7 +7,8 @@
 * [Eligiendo entre las múltiples opciones](orientaciones-didacticas.md)
   * [Preguntas antes de elegir](orientaciones-didacticas/preguntas-antes-de-elegir.md)
   * [Una breve comparativa de algunas de las aplicaciones de videoconferencia](orientaciones-didacticas/una-breve-comparativa-de-algunas-de-las-aplicaciones-de-videoconferencia.md)
-  * Una experiencia con Google Meet
+  * [Experiencias docentes](orientaciones-didacticas/experiencias-docentes.md)
+    * [Una experiencia con Google Meet](orientaciones-didacticas/una-experiencia-con-google-meet.md)
 * [Aplicaciones](aplicaciones.md)
   * [Jitsi](aplicaciones/jitsi.md)
   * [Hangouts Meet \(Google\) ](aplicaciones/hangoutsgoogle-meet.md)
