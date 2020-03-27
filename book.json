@@ -13,8 +13,7 @@
   "variables": {
     "title": "Guía básica para videoconferencias",
     "author": "Varios autores",
-    "collaborators": [
-       ]
+    "collaborators": [{"name": "Javier Quintana Peiró", "edited": "Equipo Necesario"}, {"name": "José Cariñena Burbano", "edited": "Eligiendo entre las múltiples opciones y Aplicaciones salvo apartados de Experiencias y Zoom"}, {"name": "Natalia López Zamarvide", "edited": "Zoom"}, {"name": "Adolfo Amella Santolaria", "edited": "Una experiencia con Google Meet"}]
   },
   "pluginsConfig": {
     "image-captions": {
