@@ -4,7 +4,7 @@
 * [Equipo necesario ](equipo-necesario.md)
   * [Avanzado: DroidCam](equipo-necesario/avanzado-droidcam.md)
   * [Avanzado OBS](equipo-necesario/avanzado-obs.md)
-* [Orientaciones didácticas](orientaciones-didacticas.md)
+* [Eligiendo entre las múltiples opciones](orientaciones-didacticas.md)
   * Una experiencia con Google Meet
 * [Aplicaciones](aplicaciones.md)
   * [Jitsi](aplicaciones/jitsi.md)
