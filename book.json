@@ -24,12 +24,12 @@
       "filename": "./FOOTER.md"
     },
     "edit-link": {
-      "base": "https://github.com/catedu/guia_basica/edit/master",
+      "base": "https://github.com/catedu/guiavidconf/edit/master",
       "label": "Edita esta página"
     },
     "githubcontributors": {
       "githubOwner": "catedu",
-      "githubRepository": "guia_basica"
+      "githubRepository": "guiavidconf"
     },
     "ga": {
       "token": "UA-135691041-2"
