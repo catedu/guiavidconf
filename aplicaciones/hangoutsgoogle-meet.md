@@ -6,7 +6,7 @@ Si dispones de una cuenta Gmail normal, Hangouts permite solo 10 participantes e
 
 Estos son los requisitos necesarios:
 
-![](/assets/m4tabla2.png)
+![](https://catedu.gitbooks.io/guia-de-videoconferencias-educativas/content/assets/m4tabla2.png)
 
 Como se puede ver, una de sus ventajas es su compatibilidad con diferentes navegadores, SO y dispositivos.
 
@@ -16,4 +16,4 @@ Las posibilidades son muchas y en todas ellas el uso es sencillo y funcional.
 
 Puedes encontrar información detallada sobre esta herramienta en[ este manual](https://catedu.gitbooks.io/comunicacion-docente-a-distancia-g-suite/content/unidad_1_videollamadas_con_hangouts_meet.html).
 
-![](/assets/Selección_908.png)
+![](https://catedu.gitbooks.io/guia-de-videoconferencias-educativas/content/assets/Selección_908.png)

@@ -6,7 +6,7 @@ Para las videoconferencias no hace falta un equipo muy sofisticado,es más impor
 * conexión
 Por lo tanto, no es necesario que sea nuestro ordenador fijo, pensemos que hay equipos que ya tienen incorporado estos elementos: el móvil, un portátil, la tableta…
 
-![](/assets/2020-03-25 13_03_57.jpg)
+![](https://catedu.gitbooks.io/guia-de-videoconferencias-educativas/content/assets/2020-03-25 13_03_57.jpg)
 
 https://www.rawpixel.com/
 
@@ -15,7 +15,7 @@ https://www.rawpixel.com/
 En este caso necesitamos compartir **nuestra pantalla** con nuestros alumnos, mientras hablamos.
 Nuestro consejo es utilizar el **portátil-ordenador fijo** pues es fácil compartir la pantalla con https://jitsi.org/ e ir pasando las diapositivas, documento o página web por el cual estamos basándonos nuestra explicación mientras por el audio.
 
-![](/assets/2020-03-25 13_04_50.jpg)
+![](https://catedu.gitbooks.io/guia-de-videoconferencias-educativas/content/assets/2020-03-25 13_04_50.jpg)
 
 Photo by [rupixen.com](https://unsplash.com/@rupixen?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash
 
@@ -24,14 +24,14 @@ En este caso no necesitas compartir tu pantalla, tu explicación, sino comentar 
 utilizar **el móvil** como elemento de videoconferencia 
 el **ordenador** como elemento de trabajo
 
-![](/assets/2020-03-25 13_06_02.jpg)
+![](https://catedu.gitbooks.io/guia-de-videoconferencias-educativas/content/assets/2020-03-25 13_06_02.jpg)
 
 Fuente https://www.youtube.com/watch?v=ifJZiIsJHw8
 
 ##Audio
 Utiliza auriculares, y si tienen micro incorporado mejor !!, evitas molestos pitidos y mejoras el audio, importante para todos los miembros de la videoconferencia
 
-![](/assets/2020-03-25 13_06_52.jpg)
+![](https://catedu.gitbooks.io/guia-de-videoconferencias-educativas/content/assets/2020-03-25 13_06_52.jpg)
 
 https://www.rawpixel.com/
 
@@ -40,8 +40,8 @@ https://www.rawpixel.com/
 * Tú como docente modera la reunión, y especialmente en reuniones de +20 que todas las cámaras estén desactivadas menos el que habla.
 * Si en Jitsi ves este icono en rojo es que el participante tiene mala conexión, pide que desactive la cámara y si contínua, que desactive también el audio al menos que levante la mano para hablar : 
 
-![](/assets/2020-03-25 13_19_13.jpg)
-![](/assets/2020-03-25 13_22_26.jpg)
+![](https://catedu.gitbooks.io/guia-de-videoconferencias-educativas/content/assets/2020-03-25 13_19_13.jpg)
+![](https://catedu.gitbooks.io/guia-de-videoconferencias-educativas/content/assets/2020-03-25 13_22_26.jpg)
 
 ##Cámara
 
