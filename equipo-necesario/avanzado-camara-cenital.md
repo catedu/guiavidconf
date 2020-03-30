@@ -1,6 +1,6 @@
 #Cámara cenital
 Soy profesor de matemáticas, de dibujo ... o materia similar y necesito explicar online pero con **"pizarra"**
-Hay soluciones digitales: [pizarras virtuales](https://www.youtube.com/watch?v=ABQ48ibSHDY), dispositivos wacom, con una tablet y un lápiz capacitivo casero... 
+Hay soluciones digitales: [pizarras virtuales](https://www.youtube.com/watch?v=ABQ48ibSHDY), dispositivos wacom, [con una tablet y un lápiz capacitivo casero](https://drive.google.com/file/d/1XOdehBVKcmm3dix-66ieDdEBlrcDdvyi/view?usp=sharing)... 
 
 ![](/assets/2020-03-30 12_23_37.jpg)![](/assets/2020-03-30 12_25_40.jpg) ![](/assets/2020-03-30 12_27_37.jpg)
 
