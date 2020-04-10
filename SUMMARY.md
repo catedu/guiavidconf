@@ -14,7 +14,7 @@
   * [Hangouts Meet \(Google\) ](aplicaciones/hangoutsgoogle-meet.md)
   * [Teams](aplicaciones/teams.md)
   * [Youtube](aplicaciones/youtube.md)
-  * [Zoom](aplicaciones/zoom.md)
+  <!--* [Zoom](aplicaciones/zoom.md)-->
 * [Anexo: En casa y desde casa: Aulas fáciles en tiempos difíciles](anexo-en-casa-y-desde-casa-aulas-faciles-en-tiempos-dificiles.md)
 * [Créditos](creditos.md)
 
