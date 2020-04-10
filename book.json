@@ -13,7 +13,7 @@
   "variables": {
     "title": "Guía básica para videoconferencias",
     "author": "Varios autores",
-    "collaborators": [{"name": "Javier Quintana Peiró", "edited": "Equipo Necesario"}, {"name": "José Cariñena Burbano", "edited": "Eligiendo entre las múltiples opciones"}, {"name": "Natalia López Zamarvide", "edited": "Zoom"}, {"name": "Adolfo Amella Santolaria", "edited": "Una experiencia con Google Meet"}, {"name": "Cristina Martín Bruna", "edited": "Teams"}, {"name": "Cármen Julve Tiestos", "edited": "Hangouts Meet"}, {"name": "José Ramon Olalla y Juan Soler", "edited": "En casa y desde casa"}]
+    "collaborators": [{"name": "Javier Quintana Peiró", "edited": "Equipo Necesario"}, {"name": "José Cariñena Burbano", "edited": "Eligiendo entre las múltiples opciones"}, {"name": "Natalia López Zamarvide", "edited": "Zoom"}, {"name": "Adolfo Amella Santolaria", "edited": "Una experiencia con Google Meet"}, {"name": "Cristina Martín Bruna", "edited": "Teams"}, {"name": "Cármen Julve Tiestos", "edited": "Hangouts Meet"}, {"name": "José Ramon Olalla y Juan Soler", "edited": "En casa y desde casa"}, {"name": "Mar Díez", "edited": "Hacemos una Asamblea Online en infantil"}]
   },
   "pluginsConfig": {
     "image-captions": {
