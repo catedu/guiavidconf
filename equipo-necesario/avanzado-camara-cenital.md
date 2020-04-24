@@ -17,6 +17,10 @@ aquí con cajas de cartón ....
 
 ![](/assets/585d1c76-e57c-4814-b88c-389fb4668692.jfif)
 
+Aquí con piezas de mecano :
+
+![](/assets/soportemecano.jpg)
+
 
 ###2.- Utiliza DROIDCAM 
 
