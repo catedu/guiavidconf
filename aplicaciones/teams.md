@@ -26,5 +26,5 @@ Podemos encontrarnos en una de las siguientes situaciones
 
 ## Curso completo de Teams.
 
-[Aquí tienes un recorrido completo](https://catedu.gitbooks.io/comunicacion-docente-a-distancia-teams/content/READMEm3.html) por la herramienta para poder dominarla y conocer todas sus posibilidades.
+[Aquí tienes un recorrido completo](https://catedu.github.io/cdteams/READMEm3.html) por la herramienta para poder dominarla y conocer todas sus posibilidades.
 

@@ -2,7 +2,7 @@
 
 Si tu PC no tiene webcam, una posibilidad es utilizar tu móvil como webcam:
 
-![](https://catedu.gitbooks.io/guia-de-videoconferencias-educativas/content/assets/2020-03-25 13_31_28.jpg)
+![](https://catedu.github.io/guiavidconf/assets/2020-03-25 13_31_28.jpg)
 
 https://www.rawpixel.com/
 
@@ -19,19 +19,19 @@ Para ello necesitas:
 
 a. Ejecutamos la app del móvil que te has descargado en el punto 1
 
-![](https://catedu.gitbooks.io/guia-de-videoconferencias-educativas/content/assets/2020-03-25 13_46_36.jpg)
+![](https://catedu.github.io/guiavidconf/assets/2020-03-25 13_46_36.jpg)
 
 Nos saldrá algo así:
 
-![](https://catedu.gitbooks.io/guia-de-videoconferencias-educativas/content/assets/2020-03-25 13_48_02.jpg)
+![](https://catedu.github.io/guiavidconf/assets/2020-03-25 13_48_02.jpg)
 
 b. Ejecutamos el programa cliente que te has descargado en el punto 2
 
-![](https://catedu.gitbooks.io/guia-de-videoconferencias-educativas/content/assets/2020-03-25 13_46_56.jpg)
+![](https://catedu.github.io/guiavidconf/assets/2020-03-25 13_46_56.jpg)
 
 Ponemos en este programa LOS MISMOS PARÁMETROS QUE NOS ESTÁN SALIENDO POR EL MÓVIL:
 
-![](https://catedu.gitbooks.io/guia-de-videoconferencias-educativas/content/assets/2020-03-25 14_00_25.jpg)
+![](https://catedu.github.io/guiavidconf/assets/2020-03-25 14_00_25.jpg)
 
 Ya tienes una webcam instalada en tu PC
 
@@ -39,10 +39,10 @@ Ya tienes una webcam instalada en tu PC
 
 Tienes un botón que salta una ventana con lo que captura
 
-![](https://catedu.gitbooks.io/guia-de-videoconferencias-educativas/content/assets/2020-03-25 14_20_31.jpg)
+![](https://catedu.github.io/guiavidconf/assets/2020-03-25 14_20_31.jpg)
 
 Si queremos por videoconferencia mostrar un contenido (presentación o página web..) y a la vez tu imagen, simplemente abrimos la presentación, arrastramos la ventana anterior y compartimos la pantalla: Estamos dando una **clase magistral** :
 
-![](https://catedu.gitbooks.io/guia-de-videoconferencias-educativas/content/assets/2020-03-25 14_23_59.jpg)
+![](https://catedu.github.io/guiavidconf/assets/2020-03-25 14_23_59.jpg)
 
 

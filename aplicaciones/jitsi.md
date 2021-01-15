@@ -1,6 +1,6 @@
 ## Jitsi
 
-![](https://catedu.gitbooks.io/guia-de-videoconferencias-educativas/content/assets/jitsi.png)
+![](https://catedu.github.io/guiavidconf/assets/jitsi.png)
 
 Jitsi es un servicio de vídeoconferencias libre, gratuito, de código abierto, que funciona a través de un navegador web y, si se desea, en el caso de dispositivos móviles, a través de la app Jitsi meet ([Android](https://play.google.com/store/apps/details?id=org.jitsi.meet&hl=es_419) o [IOS](https://apps.apple.com/us/app/jitsi-meet/id1165103905)).
 
